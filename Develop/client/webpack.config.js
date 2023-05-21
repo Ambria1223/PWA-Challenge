@@ -20,7 +20,8 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'TODOs List'
+        title: 'J.A.T.E',
+        
       }),
     ],
 
