@@ -1,0 +1,38 @@
+{
+    "short_name": "JATE",
+    "name": "JATE: Is this a text editor?",
+    "icons": [
+      {
+        "src": "/images/logo.png",
+        "type": "image/svg+xml",
+        "sizes": "500x500"
+      }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#3367D6",
+    "display": "browser",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "shortcuts": [
+      {
+        "name": "JATE: Is this a text editor?",
+        "short_name": "JATE",
+        "description": "Text editor",
+        "url": "/today?source=pwa"
+        
+      }
+     
+    
+    ],
+    "description": "Text editor",
+    "screenshots": [
+      {
+        "src": "/images/screenshot1.png",
+        "type": "image/png",
+        "sizes": "540x720",
+        "form_factor": "narrow"
+      }
+     
+    ]
+  }
